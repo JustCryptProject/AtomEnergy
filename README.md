@@ -1,5 +1,7 @@
-[![4U Comrade](https://i.imgur.com/GdkFzTO.png "4U Comrade")](https://i.imgur.com/GdkFzTO.png "4U Comrade")
+#Was is das? 
+##### This programm calculate:
+- Atom Energy
+- AtomEnergy
+- SpecificBindingEnergy
 
-## Become the engine of the project. Offer your task
-#### Find me on this link
-Psss ... That's all he started [**Jacket**](https://discordapp.com/users/336909912821202954)
+[![in working](https://i.imgur.com/Ctoek9d.gif "in working")](https://i.imgur.com/Ctoek9d.gif "in working")
